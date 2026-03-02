@@ -1,0 +1,28 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+myenv/
+.env
+
+# Database and index files
+chroma_store/
+*.db
+*.sqlite3
+
+# Uploaded files
+uploads/
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+temp/
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
